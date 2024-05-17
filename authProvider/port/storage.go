@@ -1,7 +1,7 @@
 package port
 
 import (
-	"github.com/EmirShimshir/marketplace-domain/domain"
+	"github.com/EmirShimshir/marketplace-core/domain"
 	"time"
 )
 

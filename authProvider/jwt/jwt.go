@@ -4,7 +4,7 @@ import (
 	"crypto/sha1"
 	"fmt"
 	"github.com/EmirShimshir/marketplace-auth/authProvider/port"
-	"github.com/EmirShimshir/marketplace-domain/domain"
+	"github.com/EmirShimshir/marketplace-core/domain"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/twinj/uuid"
 	"time"
